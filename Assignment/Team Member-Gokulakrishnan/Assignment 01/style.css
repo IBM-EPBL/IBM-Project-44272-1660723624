@@ -1,0 +1,13 @@
+.top-banner {
+    background-color: #554994;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAHlBMVEUAAABkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGSH0mEbAAAACnRSTlMAzDPDPPPYnGMw2CgMzQAAAChJREFUKM9jgAPOAgZMwGIwKkhXQSUY0BCCMxkEYUAsEM4cjI4fwYIAf2QMNbUsZjcAAAAASUVORK5CYII=');
+    background-size: 8px;
+}
+.profile-img {
+    height: 11rem;
+    width: 11rem;
+}
+.profile-img > img {
+    height: 10rem;
+    width: 10rem;
+}
