@@ -43,3 +43,21 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
  - Integrate the application with news APIs and store the data in the database.
 
  - The database will have all the details and the user can search the news by using a search bar.
+
+## Ideation Phase
+
+* [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
+* [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
+* [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)
+* [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf)
+
+## Project Design Phase I
+
+* [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Problem%20Solution%20Fit.pdf)
+* [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution.pdf)
+* [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Solution%20Architecture.pdf)
+
+## Project Design Phase II
+
+* [Customer Journey](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Customer%20Journey.pdf)
+* [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Solution%20Requirements.pdf)
