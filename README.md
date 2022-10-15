@@ -47,9 +47,9 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
 ## Ideation Phase
 
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
-* [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
+* [Empathy Map](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
 * [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)
-* [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf)
+* [Brainstorming , idea Generation & Prioritization](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf)
 
 ## Project Design Phase I
 
