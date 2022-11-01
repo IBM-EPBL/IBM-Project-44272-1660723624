@@ -38,6 +38,10 @@
 * [Functional Requirement](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Functional%20Requirement.pdf)
 * [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
 
+## Project Planning
+* [Milestone and Activity List](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
+* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
+
 ## Required Skills :
  ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot]( https://img.icons8.com/color/48/000000/kubernetes.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot]( https://img.icons8.com/ios-filled/50/000000/flask.png) ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
 
