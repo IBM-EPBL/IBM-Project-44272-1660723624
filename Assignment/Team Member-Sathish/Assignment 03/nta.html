@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News Traker Application</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cloud-object-storage-zz-newstracker-bucket.s3.jp-tok.cloud-object-storage.appdomain.cloud/styles.css">
+  </head>
+  <body>
+    <nav class="navbar bg-dark">
+        <div class="container-fluid">
+          <span class="navbar-brand mb-0 h1 text-white">News Traker Application</span>
+        </div>
+    </nav>
+    <h1>News Traker Application</h1>
+    <h2>Cloud Object Storage</h2>
+    <h3>SATHISH.S</h3>
+    <div class="card-group container-fluid">
+        <div class="row">
+            <div class="col-lg-4 d-flex ">
+                <div class="card shadow-lg" >
+                    <img src="https://cloud-object-storage-pq-cos-standard-f1o.s3.jp-tok.cloud-object-storage.appdomain.cloud/images1.jpeg" class="card-img-top" alt="news-img">
+                </div>
+            </div>
+            <div class="col-lg-4 d-flex ">
+                <div class="card shadow-lg" >
+                    <img src="https://cloud-object-storage-pq-cos-standard-f1o.s3.jp-tok.cloud-object-storage.appdomain.cloud/images2.png" class="card-img-top" alt="news-img">
+                </div>
+            </div>
+            <div class="col-lg-4 d-flex ">
+                <div class="card shadow-lg" >
+                    <img src="https://cloud-object-storage-pq-cos-standard-f1o.s3.jp-tok.cloud-object-storage.appdomain.cloud/images5.jpeg" class="card-img-top" alt="news-img">
+                </div>
+            </div>
+            <div class="col"></div>
+            <div class="col-lg-5 d-flex ">
+                <div class="card shadow-lg" >
+                    <img src="https://cloud-object-storage-pq-cos-standard-f1o.s3.jp-tok.cloud-object-storage.appdomain.cloud/index3.png" class="card-img-top" alt="news-img">
+                </div>
+            </div>
+            <div class="col-lg-5 d-flex ">
+                <div class="card shadow-lg" >
+                    <img src="https://cloud-object-storage-pq-cos-standard-f1o.s3.jp-tok.cloud-object-storage.appdomain.cloud/index4.png" class="card-img-top" alt="news-img">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        window.watsonAssistantChatOptions = {
+          integrationID: "d5aae4c6-7146-488c-8235-4a7abe46526d", // The ID of this integration.
+          region: "au-syd", // The region your integration is hosted in.
+          serviceInstanceID: "f8e994d6-a0d7-422f-a9f3-852a308d5f26", // The ID of your service instance.
+          onLoad: function(instance) { instance.render(); }
+        };
+        setTimeout(function(){
+          const t=document.createElement('script');
+          t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+          document.head.appendChild(t);
+        });
+      </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+  </body>
+</html>
