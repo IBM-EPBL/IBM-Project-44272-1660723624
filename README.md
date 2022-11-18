@@ -1,6 +1,4 @@
 # News Tracker Application
-  
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 # IBM-Project-44272-1660723624
 
@@ -38,9 +36,9 @@
 * [Functional Requirement](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Functional%20Requirement.pdf)
 * [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
 
-## Project Planning
-* [Milestone and Activity List](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
-* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
+## Project Planning Phase
+* [Milestone and Activity List](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Milestone%20and%20Activity%20List.pdf)
+* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-44272-1660723624/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Sprint%20Delivery%20Plan.pdf)
 
 ## Required Skills :
  ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot]( https://img.icons8.com/color/48/000000/kubernetes.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot]( https://img.icons8.com/ios-filled/50/000000/flask.png) ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
