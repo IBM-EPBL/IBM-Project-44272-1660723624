@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{url_for('static',filename='css/aboutus.css')}}">
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+  <!-- Fontawesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- scroll Reveal -->
+  <script src="https://unpkg.com/scrollreveal@4"></script>
+
+  <title>About us</title>
+</head>
+
+<body class="container bg-white container-fluid container-12 col-12">
+    <nav class="navbar sticky shadow-strong  navbar-light navbar-expand-lg container-fluid col-12">
+        <div class="container-fluid">
+          <div class="">
+            <span class="navbar-brand mb-0 h1">
+              <img
+                src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-bull-horn-contact-us-flaticons-flat-flat-icons.png"
+                alt="" width="30" height="24">
+             </span>
+             <a class="navbar-brand" href="#">News Tracker</a>
+          </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav ms-auto">
+              <a class="nav-link text-dark" aria-current="page" href="/home">Home</a>
+              <a class="nav-link text-dark" href="/aboutus">About</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+  <div class="container p-3">
+    <!-- top banner -->
+    <div class="row p-3 top-banner rounded align-items-center"> 
+        <div class="text-center">
+            <h4 class="text-white">Team ID: <em>PNT2022TMID46366</em></h4>
+            <h4 class="text-white">Project Name: <em>News Tracker Application</em></h4>
+            <h4 class="text-white">Domain: <em>Cloud Application Development</em></h4>
+        </div>
+    </div>
+    <!-- body content -->
+    <div class="row container-fluid justify-content-between mt-5">
+        <table>
+            <tr>
+                <th>Title</th>
+                <th>Name</th>
+            </tr>
+            <tr>
+                <td>Team Leader</td>
+                <td>Ganesh Kumar.G</td>
+            </tr>
+            <tr>
+                <td>Team Member 1</td>
+                <td>Gokulakrishnan.V</td>
+            </tr>
+            <tr>
+                <td>Team Member 2</td>
+                <td>Sathish.S</td>
+            </tr>
+            <tr>
+                <td>Team Member 3</td>
+                <td>Tamil Selvan.S</td>
+            </tr>
+            <tr>
+                <td>Team Member 4</td>
+                <td>Vishwa Vengadesh.D</td>
+            </tr>
+        </table>
+    </div>
+    <div class="row justify-content-between mt-5">
+        <h4>Project Idea :</h4>
+        <p>As our lives are very busy these days, we often feel we need more than 24 hrs. a day to cope up with everything we have in our schedule. Well, that's not possible but reducing the time by changing the conventional method of reading news can help. Just tell us what market news you're interested in and get a quick peek for the day. Only read what you feel is relevant and save your time. This app helps you to query for all information about Indices, Commodities, Currencies, Future Rates, Bonds, etc.… as on official websites.</p>
+    </div>
+    
+<br>
+  
+  <script src="{{url_for('static',filename='ApplicationFeatures/scrollReveal.js')}}"></script>
+</body>
+</html>
