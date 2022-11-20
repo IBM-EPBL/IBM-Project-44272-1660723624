@@ -8,8 +8,7 @@ app =  Flask(__name__)
 
 # ============================================  for database with IBM===========================
 conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=b70af05b-76e4-4bca-a1f5-23dbb4c6a74e.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;PORT=32716;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=pxb18488;PWD=LsK2CkZjU8qTNHmV",'','')
-print(conn)
-print("🟢 connection successfull with IBM_DB ⚡")
+print("Connection successfull with IBM_DB ⚡")
 
 # signup form data
 @app.route('/')
@@ -52,24 +51,6 @@ def signUpFormData():
                             ibm_db.bind_param(prep_stmt, 3, userPassword)
                             ibm_db.execute(prep_stmt)
                   
-                  
-                            # from sendgrid import SendGridAPIClient
-                            # from sendgrid.helpers.mail import Mail
-                  
-                            # message = Mail(
-                            #        from_email='applicationnewstracker@gmail.com',
-                            #        to_emails=userEmail,
-                            #        subject='Welcome to News Tracker Application',
-                            #        html_content='<img src="https://cloud-object-storage-18-cos-standard-yx0.s3.jp-tok.cloud-object-storage.appdomain.cloud/welcom_nta.gif" />')
-                            # try:
-                            #        sg = SendGridAPIClient('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')
-                            #        response = sg.send(message)
-                            #        print(response.status_code)
-                            #        print(response.body)
-                            #        print(response.headers)
-                            # except Exception as e:
-                            #        print(str(e))
-   
                             return render_template('login.html', msg="user Data saved successfuly.. Please login use your credentials")
                      
               else:
@@ -183,7 +164,7 @@ def crimenews():
        'apiKey=7c7062c3a98649b5bc6ffda7fdc5a01b')
        scienceNewsresponse = requests.get(sciencenews).json()
        print(scienceNewsresponse)
-       #    dharun API key = 7c7062c3a98649b5bc6ffda7fdc5a01b aravindh = 9b6f57afe98440b8b362b1046559d71d
+       #   API key = 7c7062c3a98649b5bc6ffda7fdc5a01b , 9b6f57afe98440b8b362b1046559d71d
        result_count =scienceNewsresponse.get('articles')
        result_count = len(result_count)
 
