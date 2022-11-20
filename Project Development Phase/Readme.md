@@ -1,13 +1,12 @@
-
-![Logo](https://cloud-object-storage-18-cos-standard-yx0.s3.jp-tok.cloud-object-storage.appdomain.cloud/Logo.png)
-
+## News Tracker Application
 
 ## Project Description:
-
 As our lives are very busy these days, we often feel we need more than 24 hrs. a day to cope up with everything we have in our schedule. Well, that's not possible but reducing the time by changing the conventional method of reading news can help. Just tell us what market news you're interested in and get a quick peek for the day. Only read what you feel is relevant and save your time. This app helps you to query for all information about Indices, Commodities, Currencies, Future Rates, Bonds, etc.… as on official websites.
+
 ## Skills Required:
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry.
-## sprint delivery Plan 
+
+## Sprint delivery Plan 
 ### Sprint 1 :
 - Signup page
 - Login page
@@ -22,17 +21,15 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 - Existing bugs were removed
 - pushed images in Cloud object storage which are needed
 
-### sprint3 :
+### Sprint3 :
 - IBM Cloud db2 table creation
 - Database Connectivity
-- Sendgrid integration
 - pushed images in Cloud object storage which are needed
 - Existing bugs were removed
 
 ### Sprint 4 :
 - Docker 
 - Kubernetes
-- Specialized Weather module
 - Existing bugs were removed
 - Report creation
 
@@ -43,12 +40,11 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
  Run the project by starting server using this command
 
 ```bash
-  python server.py
+  python app.py
 ```
 
 
 ## Features
-
 - Light/dark mode toggle
 - Responsive Design
 - UI & Animation
@@ -56,7 +52,7 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 - Specialized Weather module
 - Offline Detection
 - Voice Recognition Features
-- Push mails & Notifications
+
 ## Installation
 
 Python package requirements
@@ -65,7 +61,6 @@ Python package requirements
   pip install flask
   pip install bcrypt
   pip install ibm_db
-  pip install sendgrid
   pip install requests
 ```
     
